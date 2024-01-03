@@ -13,6 +13,7 @@ const Sidebar = ({ isOpen, onClose }) => {
         <Nav.Link href="/">Home</Nav.Link>
         <Nav.Link href="/ranking">League Ranking</Nav.Link>
         <Nav.Link href="/profile">Profile</Nav.Link>
+        <Nav.Link href="/rules">Rules</Nav.Link>
         {/* Add more Nav.Link components for additional menu items */}
       </Nav>
     </div>
